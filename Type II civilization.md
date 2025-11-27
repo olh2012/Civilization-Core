@@ -116,4 +116,5 @@ We hold the stellar fire not to illuminate a path of conquest, but to warm the c
 
 **Solar System Governance Decision Committee**
 **Signed and Ratified**
+
 [Digital Signatures of All Committee Members Verified]
