@@ -5,7 +5,9 @@ This is the detailed version of the **Solar System Civilization Governance Guide
 **PROCLAMATION OF THE SOLAR SYSTEM GOVERNANCE DECISION COMMITTEE**
 
 **Document ID:** SOL-GOV-DOC-K2-001 (Revision IV)
+
 **Effective Date:** Solar System Standard Calendar 3250.01.01
+
 **Jurisdiction:** The Entire Solar System (within the inner boundary of the Oort Cloud), including all planetary surfaces, orbital habitats, deep-space outposts, and Dyson Swarm components.
 
 ---
