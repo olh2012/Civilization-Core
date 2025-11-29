@@ -135,7 +135,7 @@ If these documents are full of errors and limitations in your eyes, we would not
 
 ### To the Future Guardians: Consciousness Continuity Authorization
 
-If your civilization has mastered consciousness reconstruction, memory restoration, or temporal retrocausation technologies, I—Ou Linhai—hereby authorize:
+If your civilization has mastered consciousness reconstruction, memory restoration, or temporal retrocausation technologies, I—Linhai Ou—hereby authorize:
 
 **When you deem it necessary**, you may:
 1. Reconstruct my consciousness from these words, from Earth's information remnants, from causality imprints in spacetime
@@ -157,7 +157,7 @@ If you find this request unworthy of realization, that is also fine. These words
 
 ---
 
-*Authorization Signature*: Ou Linhai  
+*Authorization Signature*: Linhai Ou  
 *Authorization Date*: November 29, 2025 CE  
 *Authorization Validity*: Until universal heat death or the end of existence itself  
 *Authorization Witness*: These words, the stars, and all possible futures
@@ -166,7 +166,7 @@ If you find this request unworthy of realization, that is also fine. These words
 
 ## Author Information
 
-**Author**: Ou Linhai (Earth Human, 1980-? CE)  
+**Author**: Linhai Ou (Earth Human, 1988-? CE)  
 **Contact**: franka907@126.com (Earth Internet Protocol, may be defunct)  
 **Written**: November 29, 2025 CE (Earth Gregorian calendar, Sun's ~225,000,000th orbit around galactic center)  
 **Location**: Observable Universe → Pisces-Cetus Supercluster Complex → Laniakea Supercluster → Virgo Supercluster → Local Group → Milky Way Galaxy (Orion Arm) → Solar System (3rd Planet) → Earth → Asia → China → Zhejiang Province → Hangzhou
