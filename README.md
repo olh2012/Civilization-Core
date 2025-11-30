@@ -169,7 +169,7 @@ If you find this request unworthy of realization, that is also fine. These words
 **Author**: Linhai Ou (Earth Human, 1988-? CE)  
 **Contact**: franka907@126.com (Earth Internet Protocol, may be defunct)  
 **Written**: November 29, 2025 CE (Earth Gregorian calendar, Sun's ~225,000,000th orbit around galactic center)  
-**Location**: Observable Universe → Pisces-Cetus Supercluster Complex → Laniakea Supercluster → Virgo Supercluster → Local Group → Milky Way Galaxy (Orion Arm) → Solar System (3rd Planet) → Earth → Asia → China → Zhejiang Province → Hangzhou
+**Location**: Observable Universe → Pisces-Cetus Supercluster Complex → Laniakea Supercluster → Virgo Supercluster → Local Group → Milky Way Galaxy (Orion Arm) → Solar System → Earth (3rd Planet) → Asia → China → Zhejiang Province → Hangzhou
 
 ---
 
